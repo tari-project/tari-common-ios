@@ -1,0 +1,2 @@
+"test.key" = "Expected Value";
+"test.key_with_format" = "Expected Value + %@";
