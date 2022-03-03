@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'TariCommon'
-  s.version = '0.1.0'
+  s.version = '0.2.0'
   s.license = '3-Clause BSD License'
   s.summary = 'Common utility functions for iOS.'
   s.homepage = 'https://github.com/tari-project/tari-common-ios'
